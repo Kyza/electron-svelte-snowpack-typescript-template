@@ -2,19 +2,13 @@
 
 ## How To Start
 
-### Clone The Repo
-
 ```bash
 git clone https://github.com/KyzaGitHub/electron-svelte-snowpack-typescript-template.git
-```
-
-### Start The Dev Server
-
-```bash
+yarn
 yarn dev
 ```
 
-### Run The Electron App
+In a new terminal...
 
 ```bash
 yarn start
